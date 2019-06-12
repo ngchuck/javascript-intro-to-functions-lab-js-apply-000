@@ -20,6 +20,9 @@ function logWhisper(deep)
   console.log(whisper(deep));
 }
 
-function 
+function sayHiToGrandma(deep)
+{
 var a="I can't hear you!", 
 var b="YES INDEED";
+if deep==
+}
