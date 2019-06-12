@@ -19,3 +19,7 @@ function logWhisper(deep)
 {
   console.log(whisper(deep));
 }
+
+function 
+var a="I can't hear you!", 
+var b="YES INDEED";
