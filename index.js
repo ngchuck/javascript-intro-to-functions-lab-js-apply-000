@@ -24,6 +24,7 @@ function sayHiToGrandma(deep)
 {
 var a="I can't hear you!";
 var b="YES INDEED!";
+var c=
 if (deep==deep.toLowerCase())
 {
  return a;
