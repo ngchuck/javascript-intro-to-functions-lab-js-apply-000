@@ -4,7 +4,6 @@ function shout(deep)
   return deep;
 }
 
-
 function whisper(deep)
 {
   deep=deep.toLowerCase();
@@ -20,3 +19,5 @@ function logShout(deep)
 {
   console.log(whisper(deep));
 }
+
+logShout('test');
