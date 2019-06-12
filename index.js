@@ -18,5 +18,5 @@ function logShout(deep)
 
 function logShout(deep)
 {
-  console.log(shout(deep));
+  console.log(whisper(deep));
 }
