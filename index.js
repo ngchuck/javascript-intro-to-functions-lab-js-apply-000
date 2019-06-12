@@ -15,7 +15,7 @@ function logShout(deep)
   console.log(shout(deep));
 }
 
-function logShout(deep)
+function logWhisper(deep)
 {
   console.log(whisper(deep));
 }
