@@ -19,5 +19,3 @@ function logShout(deep)
 {
   console.log(whisper(deep));
 }
-
-logShout('test');
