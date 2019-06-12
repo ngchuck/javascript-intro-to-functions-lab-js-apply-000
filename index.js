@@ -23,7 +23,7 @@ function logWhisper(deep)
 function sayHiToGrandma(deep)
 {
 var a="I can't hear you!";
-var b="YES INDEED";
+var b="YES INDEED!";
 if (deep==deep.toLowerCase())
 {
  return a;
