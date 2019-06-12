@@ -15,3 +15,5 @@ function logShout(deep)
 {
   console.log(shout(deep));
 }
+
+
